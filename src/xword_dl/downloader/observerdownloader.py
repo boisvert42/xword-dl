@@ -53,7 +53,7 @@ class ObserverDownloader(AmuseLabsDownloader):
 
 
 class EverymanDownloader(ObserverDownloader):
-    #command = "ever"
+    # command = "ever"
     outlet = "Observer"
     outlet_prefix = "Observer"
 
@@ -72,7 +72,7 @@ class EverymanDownloader(ObserverDownloader):
 
 
 class SpeedyDownloader(ObserverDownloader):
-    #command = "spdy"
+    # command = "spdy"
     outlet = "Observer"
     outlet_prefix = "Observer"
 

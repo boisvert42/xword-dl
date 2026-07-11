@@ -7,7 +7,7 @@ from ..util import XWordDLException
 
 
 class BillboardDownloader(AmuseLabsDownloader):
-    #command = "bill"
+    # command = "bill"
     outlet = "Billboard"
     outlet_prefix = "Billboard"
 
