@@ -32,7 +32,7 @@ class WSJDownloader(BaseDownloader):
         return url
 
     def find_latest(self):
-        return self.find_by_date(datetime.today())
+        return self.find_by_date(datetime.date.today())
 
     def find_solver(self, url):
         return url
