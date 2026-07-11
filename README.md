@@ -27,8 +27,6 @@ Supported outlets:
 |*The New Yorker*|`tny`|✔️|✔️|✔️|
 |*The New Yorker Mini*|`tnym`|✔️|✔️|✔️|
 |*Newsday*|`nd`|✔️|✔️||
-|*Observer Everyman*|`ever`|✔️||✔️|
-|*Observer Speedy*|`spdy`|✔️||✔️|
 |*Daily Princetonian*|`prince`|✔️|✔️||
 |*Daily Princetonian Mini*|`prince-mini`|✔️|✔️||
 |*Puzzmo*|`pzm`|✔️|✔️|✔️|
